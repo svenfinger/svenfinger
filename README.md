@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-- ⚙️ **Working on:** [New version](https://svenfinger.digital) of my portfolio website and some side-projects
+- ⚙️ **Working on:** New version of my portfolio website and some side-projects
 - 🌱 **Learning:** Ruby on Rails and React
 - 🙏🏻 **Looking for:** Collaboration on interesting projects (non-commercial, open source, or voluntary)
 - ✉️ **How to contact:** [Twitter](https://twitter.com/svenfinger) or [email](mailto:svenfinger@icloud.com)
