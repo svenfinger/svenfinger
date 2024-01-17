@@ -3,7 +3,7 @@
 
 # About
 
-Product Designer with more than 15 years of [professional experience](https://www.linkedin.com/in/svenfinger/). Currently working remotely from Hamburg and creating an open platform for the printing industry at [Zaikio](https://github.com/zaikio).
+As a designer and developer I create products from end-to-end. I’m a strong team player with a good sense for what matters (aka getting things done). I collaborate with all stakeholders to create great products for real users.
 
 ## Tech stack
 
