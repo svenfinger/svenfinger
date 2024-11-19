@@ -1,8 +1,10 @@
-![Header](https://github.com/user-attachments/assets/46e3d569-aabf-4d01-8a19-6ccbd4ac41b8)
+<img src="https://github.com/user-attachments/assets/7aa895fc-3b2b-4460-a5fb-1659fe240ad9" alt="Logo" width="64">
 
 # About
 
-As a Product Design Engineer, I’m passionate about creating solutions that improve lives. I prioritize understanding people—companies, colleagues, and users—ensuring that their needs shape my work. I aim to set new standards with every project, pushing for results that surpass expectations. I thrive on continuous growth, whether by expanding my skills or gaining deeper insights into diverse perspectives. My goal is to use design as a tool for positive change, always approaching my work with honesty and a focus on lasting impact.
+As a **design engineer**, I contribute to every phase of the product lifecycle, prioritizing an **iterative approach** that begins with a solid first version and evolves through continuous improvements.
+
+I bring a **no-bullshit** attitude to my work, keeping things straightforward and **free from ego**, driven by a genuine passion for creating impactful, user-focused solutions.
 
 ## Tech stack
 
