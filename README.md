@@ -1,10 +1,8 @@
-<img src="https://github.com/user-attachments/assets/7aa895fc-3b2b-4460-a5fb-1659fe240ad9" alt="Logo" width="64">
-
 # About
 
 As a **design engineer**, I contribute to every phase of the product lifecycle, prioritizing an **iterative approach** that begins with a solid first version and evolves through continuous improvements.
 
-I bring a **no-bullshit** attitude to my work, keeping things straightforward and **free from ego**, driven by a genuine passion for creating impactful, user-focused solutions.
+I bring a **no-bullshit** attitude to my work, keeping things straightforward and **free from ego**, driven by a genuine passion for creating impactful, user-focused products.
 
 ## Tech stack
 
