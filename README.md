@@ -1,8 +1,6 @@
 # About
 
-As a **design engineer**, I contribute to every phase of the product lifecycle, prioritizing an **iterative approach** that begins with a solid first version and evolves through continuous improvements.
-
-I bring a **no-bullshit** attitude to my work, keeping things straightforward and **free from ego**, driven by a genuine passion for creating impactful, user-focused products.
+Design Engineer with 15+ years of experience in web and mobile (B2B, B2C, SaaS). Specializing in design systems, user-centered design, and the symbiosis of design and technology. Passionate about creating aesthetic, intuitive and accessible digital experiences for a global audience.
 
 ## Tech stack
 
