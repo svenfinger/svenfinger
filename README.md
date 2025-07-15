@@ -53,15 +53,15 @@ I’m an open-minded design engineer with 15+ years of experience in web and mob
     <td><a href="https://www.linkedin.com/in/svenfinger">svenfinger</a></td>
   </tr>
   <tr>
-    <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/svenfinger">svenfinger</a></td>
-  </tr>
-  <tr>
-    <td><strong>Instagram</strong></td>
-    <td><a href="https://www.instagram.com/svenfinger.digital">svenfinger.digital</a></td>
+    <td><strong>X</strong></td>
+    <td><a href="https://x.com/svenfinger">svenfinger</a></td>
   </tr>
   <tr>
     <td><strong>Threads</strong></td>
     <td><a href="https://www.threads.net/@svenfinger.digital">svenfinger.digital</a></td>
+  </tr>
+  <tr>
+    <td><strong>Instagram</strong></td>
+    <td><a href="https://www.instagram.com/svenfinger.digital">svenfinger.digital</a></td>
   </tr>
 </table>
